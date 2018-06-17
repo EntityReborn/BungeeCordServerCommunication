@@ -1,0 +1,14 @@
+publisher-id: 'bungeecord'
+listen: true
+endpoint: 'tcp://*:5556'
+data-type: 'NULLSEPARATED'
+channel-prefix: 'bungeeplayer_'
+debug-mode: false
+use-cert-auth: false
+verbose-auth: true
+cert-public-key: '*!!G^&m%iDVXWGB>V7g$j$>9%C%JmXTefszSnXyU'
+cert-secret-key: 'Om]m<Khew8d*5[bML4R5St$Gkmt2LN*UM4TTXKjL'
+ip-filter-type: 'WHITELIST'
+ip-filter:
+    - '127.0.0.1'
+    

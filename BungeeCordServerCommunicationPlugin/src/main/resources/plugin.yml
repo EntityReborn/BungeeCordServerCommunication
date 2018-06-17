@@ -1,0 +1,4 @@
+name: BungeecordServerCommunication
+main: com.entityreborn.bungecordservercommunicationplugin.BCSCPlugin
+version: 1.0
+author: LewsTherin
