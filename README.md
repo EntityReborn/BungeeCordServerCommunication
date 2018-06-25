@@ -1,5 +1,5 @@
 # BungeeCordServerCommunication
-
+```
 Events
   connected
   {
@@ -25,3 +25,4 @@ Events
     username  : 'username',
     uuid      : 'uuid'
   }
+```
